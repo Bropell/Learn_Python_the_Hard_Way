@@ -1,9 +1,12 @@
 # Prints the string "Mary had a little lamb."
 print("Mary had a little lamb.")
+
 # Prints the string "Its fleese was white as snow" using the .format syntax
 print("Its fleese was white as {}.".format('snow'))
+
 # Prints the string "And everywhere that Mary went."
 print("And everywhere that Mary went.")
+
 # Prints the string "." ten times on one line
 print("." * 10) 
 
