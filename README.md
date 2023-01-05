@@ -1,2 +1,2 @@
 # Learn_Python_the_Hard_Way
-Working through Learn Python the Hard Way by Zed Shaw
+Strengthening my Python fundamentals by working through Learn Python the Hard Way by Zed Shaw
