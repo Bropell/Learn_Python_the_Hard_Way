@@ -17,7 +17,7 @@ def rewind(f):
 # Define print_a_line function to accept two arguments
 # Function prints out the line count and the contents of that line
 def print_a_line(line_count, f):
-    print(line_count, f.readline())
+    print(line_count, f.readline(), end = "")
 
 # Sets the current_file variable equal to the opened input file 
 current_file = open(input_file)
